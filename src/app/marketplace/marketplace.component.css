@@ -1,0 +1,4 @@
+.album:hover {
+  cursor: pointer;
+  color: purple;
+}
